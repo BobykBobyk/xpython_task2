@@ -7,6 +7,8 @@
 
 Сингаївський Богдан, учень PYTHON_1y_27_18_11_23 ( 2 підгрупа Студенти)
 
+Бот: @chebureklol123_bot
+
 ------------------------------------------------------------------------------------------------------------------------
 
 Greetings! This is the solution to the second task of the second round of the contest x Python!
@@ -17,3 +19,5 @@ I had many options for how to make this program, but I settled on this option be
 very nice So don't waste time and try to play the maze simulator
 
 Bohdan Singayivskyi, student PYTHON_1y_27_18_11_23 (subgroup 2 Students)
+
+The bot: @chebureklol123_bot

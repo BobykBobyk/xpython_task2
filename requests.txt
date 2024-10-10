@@ -1,0 +1,7 @@
+Щоб запустити програму потрібо мати пайтон віртуальне середовище для нього, успішно імпортовану бібліотеку телебот та телеграм
+
+Імʼя боту: @chebureklol123_bot
+
+To run the program, you need to have Python, a virtual environment for it, a successfully imported telebot library and telegram
+
+The name of the bot: @chebureklol123_bot
